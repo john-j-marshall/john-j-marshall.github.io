@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hello World"
+date:   2021-02-06 13:42:03 +0000
+categories: My site
+---
+Hello, My name is John. I'm rebuilding my 'rigid' static website hosted on github pages into a more 'flexibile' static website through the use of Jekyll. I will post my updates along with any other thoughts and experiences that come up in general life. 
+Signing off for now, John.
